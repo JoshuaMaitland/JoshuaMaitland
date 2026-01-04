@@ -15,9 +15,9 @@
 <h3 align="left">Software that I use (for programming, making games & editing pictures):</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshuaMaitland&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00ff00&icon_color=008000" alt="JoshuaMaitland's GitHub Stats" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaMaitland&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00ff00&icon_color=008000" alt="JoshuaMaitland's Most Used Languages" /></p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=JoshuaMaitland&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=JoshuaMaitland&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoshuaMaitland&layout=compact&theme=dark)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
