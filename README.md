@@ -19,7 +19,7 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=JoshuaMaitland&theme=dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoshuaMaitland&layout=compact&theme=dark)
 
-<img src="wakatime/stats.svg?v=1" height="300"/>
+<img src="wakatime/stats.svg?v=20260106" height="300"/>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
